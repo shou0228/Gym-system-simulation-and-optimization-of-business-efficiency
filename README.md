@@ -39,6 +39,12 @@ total_use表示所有顧客的使用時間加總
 
 <img width="346" alt="image" src="https://user-images.githubusercontent.com/68886395/215427310-3629ec22-edc9-4864-9afa-e139d09e3c5d.png">
 
+✒健身房系統容量上限
+---
+
+![image](https://user-images.githubusercontent.com/68886395/215427942-5d44ea1d-cfd3-4047-98d3-ed9bfda37acb.jpeg)
+
+
 ✒以localized random search演算法最佳化顧客等待時間比率
 -------------------
 
