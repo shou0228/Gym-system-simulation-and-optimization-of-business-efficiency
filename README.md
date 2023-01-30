@@ -19,7 +19,7 @@
 
 <img width="671" alt="image" src="https://user-images.githubusercontent.com/68886395/215425179-47a612fe-1689-4e67-931c-0f56d4678de6.png">
 
-✒python模型建構(含健身房系統模擬與以localized random search演算法最佳化顧客等待時間比率
+✒python模型建構(健身房系統模擬)
 ---
 <img width="692" alt="image" src="https://user-images.githubusercontent.com/68886395/215426467-6b66dc98-b0a5-4685-9ac9-0212ad8c82f6.png">
 
@@ -34,3 +34,12 @@ arrivals表示為該健身系統營業時間內所到達的總顧客數
 total_wait表示所有顧客的等待時間加總
 
 total_use表示所有顧客的使用時間加總
+
+結果分析：
+
+<img width="346" alt="image" src="https://user-images.githubusercontent.com/68886395/215427310-3629ec22-edc9-4864-9afa-e139d09e3c5d.png">
+
+✒以localized random search演算法最佳化顧客等待時間比率
+-------------------
+
+<img width="442" alt="image" src="https://user-images.githubusercontent.com/68886395/215427611-1a081640-3345-41c3-ab2d-302b712c1918.png">
