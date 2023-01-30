@@ -1,5 +1,9 @@
 # 健身房系統模擬與營業效益之優化 #Gym system simulation and optimization of business efficiency
 
+[Gym system simulation and optimization of business efficiency.py](https://github.com/shou0228/Gym-system-simulation-and-optimization-of-business-efficiency/blob/main/simluation%20final.py)
+
+[Gym system simulation and optimization of business efficiency 詳細報告書](https://github.com/shou0228/Gym-system-simulation-and-optimization-of-business-efficiency/blob/main/隨機過程_第一組_健身房模擬系統與營運效益之優化.pdf)
+
 ✒問題定義：
 ------------------------------------------------------------------------------
 每位顧客在有限數量之健身器材前所需花費的等待時間（waiting time），會因為使用者的需求數增加而使每位客戶的等待時間相對拉長，因此身為健身房經理在預算有限下，如何採購與配置健身器材使每位顧客所花費的等待時間最小為一重要問題
