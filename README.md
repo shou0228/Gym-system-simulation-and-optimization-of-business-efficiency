@@ -34,4 +34,3 @@ arrivals表示為該健身系統營業時間內所到達的總顧客數
 total_wait表示所有顧客的等待時間加總
 
 total_use表示所有顧客的使用時間加總
-<img width="583" alt="image" src="https://user-images.githubusercontent.com/68886395/215426741-dfa855db-fcdc-44c2-bcf6-7440a40c2dcd.png">
