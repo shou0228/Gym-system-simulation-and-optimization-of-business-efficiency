@@ -24,7 +24,8 @@
 <img width="692" alt="image" src="https://user-images.githubusercontent.com/68886395/215426467-6b66dc98-b0a5-4685-9ac9-0212ad8c82f6.png">
 
 健身房模擬結果：
-![image](https://user-images.githubusercontent.com/68886395/215426661-a6e01b16-e547-44df-bf57-4271a850d51b.jpeg)
+![image](https://user-images.githubusercontent.com/68886395/215426930-65713481-f2ad-4a8c-b37b-acedb19b7bca.jpeg)
+
 final表示為總共的等待時間比率佔據總時間比率（使用時間＋等待時間）佔比
 
 arrivals表示為該健身系統營業時間內所到達的總顧客數
